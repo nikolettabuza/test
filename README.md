@@ -11,3 +11,5 @@
    a. `2016`<br />
    b. `2016 1`<br />
    c. `2016.12.03.`
+
+*Note: the comments and TODO comments were not removed since the application is not complete.*
