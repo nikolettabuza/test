@@ -170,6 +170,14 @@ public class FilteredResult extends JFrame {
         // Collect the already filtered DrawRecordBean objects inputValue a list
         ArrayList<DrawRecordBean> filteredResults = new ArrayList();
         filterResults(filteredResults, filterValueYear, filterValueWeek, filterValueDateString);
+
+        // Display the list of results on the UI
+        writeResultsToUI(filteredResults);
+
+        // Export the result list to an XML when the "Export" button is clicked on the UI
+        if (exportToXMLButtonClicked()) {
+            writeResultsToXML(filteredResults);
+        }
     }
 
     private static void addFilterListElementsToUI(ArrayList<FilterValues> filterValuesList) {
@@ -326,5 +334,27 @@ public class FilteredResult extends JFrame {
                 drawRecord.setHm2(hit);
                 drawRecord.setHm2Prize(prize);
         }
+    }
+
+    private static boolean exportToXMLButtonClicked() {
+        // TODO add action instead of default `true` value
+        return true;
+    }
+
+    private static void writeResultsToUI(ArrayList<DrawRecordBean> filteredResults) {
+        // TODO
+    }
+
+    private static void writeResultsToXML(ArrayList<DrawRecordBean> filteredResults) {
+        // TODO, disabled until *Date related serialization is handled
+//        XMLEncoder encoder = null;
+//        try {
+//            encoder = new XMLEncoder(new BufferedOutputStream(
+//                    new FileOutputStream("Results.xml")));
+//            encoder.writeObject(filteredResults);
+//            encoder.close();
+//        } catch (Exception exception) {
+//            exception.printStackTrace();
+//        }
     }
 }

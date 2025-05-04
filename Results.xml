@@ -1,0 +1,2330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_332" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean0">
+    <void property="hm2">
+     <int>72263</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 565 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2230</int>
+    </void>
+    <void property="hm3Prize">
+     <string>23 210 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>13</int>
+    </void>
+    <void property="hm4Prize">
+     <string>3 732 370 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>7</int>
+     </void>
+     <void index="1">
+      <int>63</int>
+     </void>
+     <void index="2">
+      <int>69</int>
+     </void>
+     <void index="3">
+      <int>76</int>
+     </void>
+     <void index="4">
+      <int>85</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>48</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean1">
+    <void property="hm2">
+     <int>67633</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 780 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2082</int>
+    </void>
+    <void property="hm3Prize">
+     <string>26 450 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>18</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 867 950 Ft</string>
+    </void>
+    <void property="hm5">
+     <int>1</int>
+    </void>
+    <void property="hm5Prize">
+     <string>892 375 285 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>33</int>
+     </void>
+     <void index="1">
+      <int>43</int>
+     </void>
+     <void index="2">
+      <int>58</int>
+     </void>
+     <void index="3">
+      <int>60</int>
+     </void>
+     <void index="4">
+      <int>77</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>47</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean2">
+    <void property="hm2">
+     <int>124209</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 000 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>5274</int>
+    </void>
+    <void property="hm3Prize">
+     <string>10 745 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>61</int>
+    </void>
+    <void property="hm4Prize">
+     <string>871 040 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>8</int>
+     </void>
+     <void index="1">
+      <int>9</int>
+     </void>
+     <void index="2">
+      <int>19</int>
+     </void>
+     <void index="3">
+      <int>37</int>
+     </void>
+     <void index="4">
+      <int>43</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>46</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean3">
+    <void property="hm2">
+     <int>87464</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 415 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3333</int>
+    </void>
+    <void property="hm3Prize">
+     <string>16 975 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>42</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 262 915 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>1</int>
+     </void>
+     <void index="1">
+      <int>11</int>
+     </void>
+     <void index="2">
+      <int>45</int>
+     </void>
+     <void index="3">
+      <int>67</int>
+     </void>
+     <void index="4">
+      <int>78</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>45</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean4">
+    <void property="hm2">
+     <int>76094</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 350 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2559</int>
+    </void>
+    <void property="hm3Prize">
+     <string>20 675 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>29</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 723 080 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>7</int>
+     </void>
+     <void index="1">
+      <int>53</int>
+     </void>
+     <void index="2">
+      <int>65</int>
+     </void>
+     <void index="3">
+      <int>73</int>
+     </void>
+     <void index="4">
+      <int>87</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>44</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean5">
+    <void property="hm2">
+     <int>63735</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 635 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1967</int>
+    </void>
+    <void property="hm3Prize">
+     <string>27 235 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>23</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 199 735 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>53</int>
+     </void>
+     <void index="1">
+      <int>55</int>
+     </void>
+     <void index="2">
+      <int>67</int>
+     </void>
+     <void index="3">
+      <int>79</int>
+     </void>
+     <void index="4">
+      <int>80</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>43</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean6">
+    <void property="hm2">
+     <int>72848</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 435 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2803</int>
+    </void>
+    <void property="hm3Prize">
+     <string>19 205 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>37</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 374 070 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>14</int>
+     </void>
+     <void index="1">
+      <int>34</int>
+     </void>
+     <void index="2">
+      <int>43</int>
+     </void>
+     <void index="3">
+      <int>52</int>
+     </void>
+     <void index="4">
+      <int>78</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>42</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean7">
+    <void property="hm2">
+     <int>81082</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 340 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3051</int>
+    </void>
+    <void property="hm3Prize">
+     <string>18 290 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>50</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 054 195 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>17</int>
+     </void>
+     <void index="1">
+      <int>22</int>
+     </void>
+     <void index="2">
+      <int>47</int>
+     </void>
+     <void index="3">
+      <int>73</int>
+     </void>
+     <void index="4">
+      <int>90</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>41</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean8">
+    <void property="hm2">
+     <int>81843</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 275 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3193</int>
+    </void>
+    <void property="hm3Prize">
+     <string>16 840 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>35</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 450 860 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>23</int>
+     </void>
+     <void index="1">
+      <int>36</int>
+     </void>
+     <void index="2">
+      <int>38</int>
+     </void>
+     <void index="3">
+      <int>57</int>
+     </void>
+     <void index="4">
+      <int>76</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>40</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean9">
+    <void property="hm2">
+     <int>68892</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 435 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2214</int>
+    </void>
+    <void property="hm3Prize">
+     <string>23 005 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>19</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 531 650 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>1</int>
+     </void>
+     <void index="1">
+      <int>23</int>
+     </void>
+     <void index="2">
+      <int>37</int>
+     </void>
+     <void index="3">
+      <int>49</int>
+     </void>
+     <void index="4">
+      <int>60</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>39</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean10">
+    <void property="hm2">
+     <int>73287</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 450 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2544</int>
+    </void>
+    <void property="hm3Prize">
+     <string>21 485 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>25</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 064 845 Ft</string>
+    </void>
+    <void property="hm5">
+     <int>1</int>
+    </void>
+    <void property="hm5Prize">
+     <string>538 536 140 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>8</int>
+     </void>
+     <void index="1">
+      <int>29</int>
+     </void>
+     <void index="2">
+      <int>59</int>
+     </void>
+     <void index="3">
+      <int>77</int>
+     </void>
+     <void index="4">
+      <int>89</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>38</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean11">
+    <void property="hm2">
+     <int>96620</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 135 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>4054</int>
+    </void>
+    <void property="hm3Prize">
+     <string>13 940 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>74</int>
+    </void>
+    <void property="hm4Prize">
+     <string>721 245 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>1</int>
+     </void>
+     <void index="1">
+      <int>9</int>
+     </void>
+     <void index="2">
+      <int>17</int>
+     </void>
+     <void index="3">
+      <int>18</int>
+     </void>
+     <void index="4">
+      <int>89</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>37</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean12">
+    <void property="hm2">
+     <int>71904</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 505 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2271</int>
+    </void>
+    <void property="hm3Prize">
+     <string>24 520 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>27</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 948 020 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>9</int>
+     </void>
+     <void index="1">
+      <int>16</int>
+     </void>
+     <void index="2">
+      <int>78</int>
+     </void>
+     <void index="3">
+      <int>83</int>
+     </void>
+     <void index="4">
+      <int>86</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>36</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean13">
+    <void property="hm2">
+     <int>98414</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 050 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3941</int>
+    </void>
+    <void property="hm3Prize">
+     <string>13 510 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>60</int>
+    </void>
+    <void property="hm4Prize">
+     <string>838 020 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>4</int>
+     </void>
+     <void index="1">
+      <int>13</int>
+     </void>
+     <void index="2">
+      <int>47</int>
+     </void>
+     <void index="3">
+      <int>76</int>
+     </void>
+     <void index="4">
+      <int>78</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>35</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean14">
+    <void property="hm2">
+     <int>73192</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 405 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2700</int>
+    </void>
+    <void property="hm3Prize">
+     <string>19 615 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>48</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 042 055 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>22</int>
+     </void>
+     <void index="1">
+      <int>29</int>
+     </void>
+     <void index="2">
+      <int>53</int>
+     </void>
+     <void index="3">
+      <int>62</int>
+     </void>
+     <void index="4">
+      <int>74</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>34</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean15">
+    <void property="hm2">
+     <int>46062</int>
+    </void>
+    <void property="hm2Prize">
+     <string>2 115 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1131</int>
+    </void>
+    <void property="hm3Prize">
+     <string>44 265 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>6</int>
+    </void>
+    <void property="hm4Prize">
+     <string>7 880 110 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>39</int>
+     </void>
+     <void index="1">
+      <int>41</int>
+     </void>
+     <void index="2">
+      <int>46</int>
+     </void>
+     <void index="3">
+      <int>47</int>
+     </void>
+     <void index="4">
+      <int>60</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>33</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean16">
+    <void property="hm2">
+     <int>116994</int>
+    </void>
+    <void property="hm2Prize">
+     <string>990 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>4358</int>
+    </void>
+    <void property="hm3Prize">
+     <string>13 680 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>40</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 407 460 Ft</string>
+    </void>
+    <void property="hm5">
+     <int>1</int>
+    </void>
+    <void property="hm5Prize">
+     <string>573 765 355 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>13</int>
+     </void>
+     <void index="1">
+      <int>14</int>
+     </void>
+     <void index="2">
+      <int>21</int>
+     </void>
+     <void index="3">
+      <int>34</int>
+     </void>
+     <void index="4">
+      <int>84</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>32</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean17">
+    <void property="hm2">
+     <int>80415</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 360 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2445</int>
+    </void>
+    <void property="hm3Prize">
+     <string>23 000 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>22</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 413 885 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>15</int>
+     </void>
+     <void index="1">
+      <int>24</int>
+     </void>
+     <void index="2">
+      <int>27</int>
+     </void>
+     <void index="3">
+      <int>29</int>
+     </void>
+     <void index="4">
+      <int>40</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>31</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean18">
+    <void property="hm2">
+     <int>64433</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 670 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1987</int>
+    </void>
+    <void property="hm3Prize">
+     <string>27 855 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>21</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 489 370 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>16</int>
+     </void>
+     <void index="1">
+      <int>55</int>
+     </void>
+     <void index="2">
+      <int>60</int>
+     </void>
+     <void index="3">
+      <int>67</int>
+     </void>
+     <void index="4">
+      <int>76</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>30</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean19">
+    <void property="hm2">
+     <int>54209</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 935 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1605</int>
+    </void>
+    <void property="hm3Prize">
+     <string>33 605 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>11</int>
+    </void>
+    <void property="hm4Prize">
+     <string>4 631 210 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>32</int>
+     </void>
+     <void index="1">
+      <int>43</int>
+     </void>
+     <void index="2">
+      <int>60</int>
+     </void>
+     <void index="3">
+      <int>74</int>
+     </void>
+     <void index="4">
+      <int>79</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>29</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean20">
+    <void property="hm2">
+     <int>59733</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 810 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1732</int>
+    </void>
+    <void property="hm3Prize">
+     <string>32 115 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>13</int>
+    </void>
+    <void property="hm4Prize">
+     <string>4 041 000 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>10</int>
+     </void>
+     <void index="1">
+      <int>42</int>
+     </void>
+     <void index="2">
+      <int>60</int>
+     </void>
+     <void index="3">
+      <int>78</int>
+     </void>
+     <void index="4">
+      <int>82</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>28</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean21">
+    <void property="hm2">
+     <int>60128</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 765 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1862</int>
+    </void>
+    <void property="hm3Prize">
+     <string>29 270 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>15</int>
+    </void>
+    <void property="hm4Prize">
+     <string>3 431 790 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>40</int>
+     </void>
+     <void index="1">
+      <int>47</int>
+     </void>
+     <void index="2">
+      <int>52</int>
+     </void>
+     <void index="3">
+      <int>57</int>
+     </void>
+     <void index="4">
+      <int>83</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>27</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean22">
+    <void property="hm2">
+     <int>136140</int>
+    </void>
+    <void property="hm2Prize">
+     <string>835 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>8671</int>
+    </void>
+    <void property="hm3Prize">
+     <string>6 730 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>216</int>
+    </void>
+    <void property="hm4Prize">
+     <string>255 160 Ft</string>
+    </void>
+    <void property="hm5">
+     <int>3</int>
+    </void>
+    <void property="hm5Prize">
+     <string>356 532 130 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>1</int>
+     </void>
+     <void index="1">
+      <int>9</int>
+     </void>
+     <void index="2">
+      <int>11</int>
+     </void>
+     <void index="3">
+      <int>19</int>
+     </void>
+     <void index="4">
+      <int>41</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>26</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean23">
+    <void property="hm2">
+     <int>80563</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 405 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3277</int>
+    </void>
+    <void property="hm3Prize">
+     <string>17 755 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>29</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 894 895 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>29</int>
+     </void>
+     <void index="1">
+      <int>54</int>
+     </void>
+     <void index="2">
+      <int>63</int>
+     </void>
+     <void index="3">
+      <int>78</int>
+     </void>
+     <void index="4">
+      <int>83</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>25</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean24">
+    <void property="hm2">
+     <int>81331</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 435 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3019</int>
+    </void>
+    <void property="hm3Prize">
+     <string>19 850 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>22</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 572 455 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>2</int>
+     </void>
+     <void index="1">
+      <int>39</int>
+     </void>
+     <void index="2">
+      <int>69</int>
+     </void>
+     <void index="3">
+      <int>72</int>
+     </void>
+     <void index="4">
+      <int>74</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>24</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean25">
+    <void property="hm2">
+     <int>109198</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 090 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3979</int>
+    </void>
+    <void property="hm3Prize">
+     <string>15 410 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>51</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 135 310 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>3</int>
+     </void>
+     <void index="1">
+      <int>7</int>
+     </void>
+     <void index="2">
+      <int>32</int>
+     </void>
+     <void index="3">
+      <int>41</int>
+     </void>
+     <void index="4">
+      <int>58</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>23</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean26">
+    <void property="hm2">
+     <int>61830</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 805 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1940</int>
+    </void>
+    <void property="hm3Prize">
+     <string>29 570 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>45</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 204 000 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>22</int>
+     </void>
+     <void index="1">
+      <int>42</int>
+     </void>
+     <void index="2">
+      <int>62</int>
+     </void>
+     <void index="3">
+      <int>82</int>
+     </void>
+     <void index="4">
+      <int>84</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>22</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean27">
+    <void property="hm2">
+     <int>85366</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 290 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3080</int>
+    </void>
+    <void property="hm3Prize">
+     <string>18 400 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>34</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 574 275 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>4</int>
+     </void>
+     <void index="1">
+      <int>27</int>
+     </void>
+     <void index="2">
+      <int>41</int>
+     </void>
+     <void index="3">
+      <int>72</int>
+     </void>
+     <void index="4">
+      <int>88</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>21</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean28">
+    <void property="hm2">
+     <int>82121</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 380 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2494</int>
+    </void>
+    <void property="hm3Prize">
+     <string>23 380 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>19</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 898 540 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>9</int>
+     </void>
+     <void index="1">
+      <int>10</int>
+     </void>
+     <void index="2">
+      <int>36</int>
+     </void>
+     <void index="3">
+      <int>50</int>
+     </void>
+     <void index="4">
+      <int>78</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>20</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean29">
+    <void property="hm2">
+     <int>90641</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 425 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3078</int>
+    </void>
+    <void property="hm3Prize">
+     <string>21 595 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>47</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 335 815 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>6</int>
+     </void>
+     <void index="1">
+      <int>18</int>
+     </void>
+     <void index="2">
+      <int>51</int>
+     </void>
+     <void index="3">
+      <int>59</int>
+     </void>
+     <void index="4">
+      <int>64</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>19</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean30">
+    <void property="hm2">
+     <int>76790</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 420 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2619</int>
+    </void>
+    <void property="hm3Prize">
+     <string>21 420 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>27</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 962 430 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>22</int>
+     </void>
+     <void index="1">
+      <int>24</int>
+     </void>
+     <void index="2">
+      <int>43</int>
+     </void>
+     <void index="3">
+      <int>64</int>
+     </void>
+     <void index="4">
+      <int>90</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>18</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean31">
+    <void property="hm2">
+     <int>68627</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 555 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2009</int>
+    </void>
+    <void property="hm3Prize">
+     <string>27 295 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>20</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 589 425 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>43</int>
+     </void>
+     <void index="1">
+      <int>45</int>
+     </void>
+     <void index="2">
+      <int>56</int>
+     </void>
+     <void index="3">
+      <int>66</int>
+     </void>
+     <void index="4">
+      <int>82</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>17</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean32">
+    <void property="hm2">
+     <int>90446</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 165 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>4222</int>
+    </void>
+    <void property="hm3Prize">
+     <string>12 840 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>59</int>
+    </void>
+    <void property="hm4Prize">
+     <string>867 925 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>24</int>
+     </void>
+     <void index="1">
+      <int>36</int>
+     </void>
+     <void index="2">
+      <int>44</int>
+     </void>
+     <void index="3">
+      <int>63</int>
+     </void>
+     <void index="4">
+      <int>68</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>16</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean33">
+    <void property="hm2">
+     <int>91530</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 325 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3494</int>
+    </void>
+    <void property="hm3Prize">
+     <string>17 825 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>42</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 400 670 Ft</string>
+    </void>
+    <void property="hm5">
+     <int>1</int>
+    </void>
+    <void property="hm5Prize">
+     <string>783 562 710 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>8</int>
+     </void>
+     <void index="1">
+      <int>33</int>
+     </void>
+     <void index="2">
+      <int>57</int>
+     </void>
+     <void index="3">
+      <int>62</int>
+     </void>
+     <void index="4">
+      <int>66</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>15</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean34">
+    <void property="hm2">
+     <int>100024</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 185 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>4051</int>
+    </void>
+    <void property="hm3Prize">
+     <string>15 080 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>55</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 048 870 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>5</int>
+     </void>
+     <void index="1">
+      <int>22</int>
+     </void>
+     <void index="2">
+      <int>25</int>
+     </void>
+     <void index="3">
+      <int>67</int>
+     </void>
+     <void index="4">
+      <int>87</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>14</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean35">
+    <void property="hm2">
+     <int>89284</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 235 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3017</int>
+    </void>
+    <void property="hm3Prize">
+     <string>18 795 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>42</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 275 090 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>1</int>
+     </void>
+     <void index="1">
+      <int>23</int>
+     </void>
+     <void index="2">
+      <int>27</int>
+     </void>
+     <void index="3">
+      <int>42</int>
+     </void>
+     <void index="4">
+      <int>84</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>13</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean36">
+    <void property="hm2">
+     <int>68958</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 655 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2466</int>
+    </void>
+    <void property="hm3Prize">
+     <string>23 835 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>24</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 312 945 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>16</int>
+     </void>
+     <void index="1">
+      <int>38</int>
+     </void>
+     <void index="2">
+      <int>54</int>
+     </void>
+     <void index="3">
+      <int>84</int>
+     </void>
+     <void index="4">
+      <int>90</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>12</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean37">
+    <void property="hm2">
+     <int>84873</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 295 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3342</int>
+    </void>
+    <void property="hm3Prize">
+     <string>16 945 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>42</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 273 500 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>15</int>
+     </void>
+     <void index="1">
+      <int>36</int>
+     </void>
+     <void index="2">
+      <int>45</int>
+     </void>
+     <void index="3">
+      <int>58</int>
+     </void>
+     <void index="4">
+      <int>72</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>11</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean38">
+    <void property="hm2">
+     <int>79578</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 475 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3048</int>
+    </void>
+    <void property="hm3Prize">
+     <string>19 780 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>38</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 498 460 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>28</int>
+     </void>
+     <void index="1">
+      <int>30</int>
+     </void>
+     <void index="2">
+      <int>35</int>
+     </void>
+     <void index="3">
+      <int>56</int>
+     </void>
+     <void index="4">
+      <int>84</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>10</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean39">
+    <void property="hm2">
+     <int>61425</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 850 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1742</int>
+    </void>
+    <void property="hm3Prize">
+     <string>33 515 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>22</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 506 310 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>38</int>
+     </void>
+     <void index="1">
+      <int>39</int>
+     </void>
+     <void index="2">
+      <int>52</int>
+     </void>
+     <void index="3">
+      <int>79</int>
+     </void>
+     <void index="4">
+      <int>85</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>9</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean40">
+    <void property="hm2">
+     <int>81826</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 330 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3115</int>
+    </void>
+    <void property="hm3Prize">
+     <string>17 970 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>26</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 033 510 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>27</int>
+     </void>
+     <void index="1">
+      <int>35</int>
+     </void>
+     <void index="2">
+      <int>51</int>
+     </void>
+     <void index="3">
+      <int>57</int>
+     </void>
+     <void index="4">
+      <int>59</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>8</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean41">
+    <void property="hm2">
+     <int>86952</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 350 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2904</int>
+    </void>
+    <void property="hm3Prize">
+     <string>20 820 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>22</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 595 460 Ft</string>
+    </void>
+    <void property="hm5">
+     <int>1</int>
+    </void>
+    <void property="hm5Prize">
+     <string>467 849 960 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>24</int>
+     </void>
+     <void index="1">
+      <int>43</int>
+     </void>
+     <void index="2">
+      <int>44</int>
+     </void>
+     <void index="3">
+      <int>48</int>
+     </void>
+     <void index="4">
+      <int>58</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>7</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean42">
+    <void property="hm2">
+     <int>97329</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 250 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3344</int>
+    </void>
+    <void property="hm3Prize">
+     <string>18 730 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>29</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 039 795 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>11</int>
+     </void>
+     <void index="1">
+      <int>15</int>
+     </void>
+     <void index="2">
+      <int>23</int>
+     </void>
+     <void index="3">
+      <int>43</int>
+     </void>
+     <void index="4">
+      <int>87</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>6</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean43">
+    <void property="hm2">
+     <int>86050</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 370 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2955</int>
+    </void>
+    <void property="hm3Prize">
+     <string>20 530 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>30</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 910 065 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>11</int>
+     </void>
+     <void index="1">
+      <int>15</int>
+     </void>
+     <void index="2">
+      <int>26</int>
+     </void>
+     <void index="3">
+      <int>39</int>
+     </void>
+     <void index="4">
+      <int>78</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>5</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean44">
+    <void property="hm2">
+     <int>60555</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 840 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>1729</int>
+    </void>
+    <void property="hm3Prize">
+     <string>33 165 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>16</int>
+    </void>
+    <void property="hm4Prize">
+     <string>3 384 925 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>48</int>
+     </void>
+     <void index="1">
+      <int>55</int>
+     </void>
+     <void index="2">
+      <int>62</int>
+     </void>
+     <void index="3">
+      <int>69</int>
+     </void>
+     <void index="4">
+      <int>80</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>4</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean45">
+    <void property="hm2">
+     <int>107680</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 305 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3797</int>
+    </void>
+    <void property="hm3Prize">
+     <string>19 000 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>46</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 481 290 Ft</string>
+    </void>
+    <void property="hm5">
+     <int>1</int>
+    </void>
+    <void property="hm5Prize">
+     <string>1 496 723 740 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>11</int>
+     </void>
+     <void index="1">
+      <int>27</int>
+     </void>
+     <void index="2">
+      <int>55</int>
+     </void>
+     <void index="3">
+      <int>68</int>
+     </void>
+     <void index="4">
+      <int>80</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>3</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean46">
+    <void property="hm2">
+     <int>119122</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 455 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>3963</int>
+    </void>
+    <void property="hm3Prize">
+     <string>18 370 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>36</int>
+    </void>
+    <void property="hm4Prize">
+     <string>1 909 780 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>7</int>
+     </void>
+     <void index="1">
+      <int>18</int>
+     </void>
+     <void index="2">
+      <int>53</int>
+     </void>
+     <void index="3">
+      <int>54</int>
+     </void>
+     <void index="4">
+      <int>85</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>2</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="DrawRecordBean" id="DrawRecordBean47">
+    <void property="hm2">
+     <int>88545</int>
+    </void>
+    <void property="hm2Prize">
+     <string>1 420 Ft</string>
+    </void>
+    <void property="hm3">
+     <int>2916</int>
+    </void>
+    <void property="hm3Prize">
+     <string>22 175 Ft</string>
+    </void>
+    <void property="hm4">
+     <int>25</int>
+    </void>
+    <void property="hm4Prize">
+     <string>2 442 905 Ft</string>
+    </void>
+    <void property="hm5Prize">
+     <string>0 Ft</string>
+    </void>
+    <void property="numbers">
+     <void index="0">
+      <int>3</int>
+     </void>
+     <void index="1">
+      <int>50</int>
+     </void>
+     <void index="2">
+      <int>52</int>
+     </void>
+     <void index="3">
+      <int>59</int>
+     </void>
+     <void index="4">
+      <int>74</int>
+     </void>
+    </void>
+    <void property="week">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>2016</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
